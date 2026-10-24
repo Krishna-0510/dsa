@@ -22,17 +22,17 @@ private:
 
 public:
     int countDaysTogether(std::string arriveAlice, std::string leaveAlice, std::string arriveBob, std::string leaveBob) {
-        // Convert all dates to day numbers
+        
         int startA = dateToDayOfYear(arriveAlice);
         int endA = dateToDayOfYear(leaveAlice);
         int startB = dateToDayOfYear(arriveBob);
         int endB = dateToDayOfYear(leaveBob);
         
-        // Find the intersection of the two intervals
+        
         int startOverlap = std::max(startA, startB);
         int endOverlap = std::min(endA, endB);
         
-        // Calculate overlapping days (return 0 if there is no overlap)
+        
         return std::max(0, endOverlap - startOverlap + 1);
     }
 };
