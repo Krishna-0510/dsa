@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Krishna-0510/DSA-Practice/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Krishna-0510/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Krishna-0510/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Krishna-0510/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -73,6 +74,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Krishna-0510/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Krishna-0510/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Krishna-0510/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Krishna-0510/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -177,6 +179,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Krishna-0510/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Krishna-0510/DSA-Practice/tree/master/0134-gas-station) |
 | [1386-cinema-seat-allocation](https://github.com/Krishna-0510/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-0510/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
