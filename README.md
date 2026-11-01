@@ -26,6 +26,7 @@
 | [0268-missing-number](https://github.com/Krishna-0510/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Krishna-0510/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Krishna-0510/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Krishna-0510/DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishna-0510/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Krishna-0510/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Krishna-0510/DSA-Practice/tree/master/0704-binary-search) |
@@ -158,6 +159,7 @@
 | [0204-count-primes](https://github.com/Krishna-0510/DSA-Practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Krishna-0510/DSA-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Krishna-0510/DSA-Practice/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Krishna-0510/DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/Krishna-0510/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1510-stone-game-iv](https://github.com/Krishna-0510/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/Krishna-0510/DSA-Practice/tree/master/1927-sum-game) |
