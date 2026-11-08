@@ -36,6 +36,7 @@
 | [0912-sort-an-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krishna-0510/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1267-count-servers-that-communicate](https://github.com/Krishna-0510/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Krishna-0510/DSA-Practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Krishna-0510/DSA-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/Krishna-0510/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
@@ -250,6 +251,7 @@
 | [0169-majority-element](https://github.com/Krishna-0510/DSA-Practice/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Krishna-0510/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Krishna-0510/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/Krishna-0510/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/Krishna-0510/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Krishna-0510/DSA-Practice/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3692-majority-frequency-characters](https://github.com/Krishna-0510/DSA-Practice/tree/master/3692-majority-frequency-characters) |
@@ -351,6 +353,7 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Krishna-0510/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Krishna-0510/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [1267-count-servers-that-communicate](https://github.com/Krishna-0510/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Krishna-0510/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Krishna-0510/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
@@ -368,15 +371,18 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Krishna-0510/DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Krishna-0510/DSA-Practice/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/Krishna-0510/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Krishna-0510/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Krishna-0510/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Krishna-0510/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Krishna-0510/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Krishna-0510/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Krishna-0510/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Krishna-0510/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3665-twisted-mirror-path-count](https://github.com/Krishna-0510/DSA-Practice/tree/master/3665-twisted-mirror-path-count) |
