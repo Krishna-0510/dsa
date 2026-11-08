@@ -14,6 +14,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Krishna-0510/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Krishna-0510/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Krishna-0510/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/Krishna-0510/DSA-Practice/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/Krishna-0510/DSA-Practice/tree/master/0152-maximum-product-subarray) |
@@ -87,6 +88,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Krishna-0510/DSA-Practice/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Krishna-0510/DSA-Practice/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Krishna-0510/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Krishna-0510/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Krishna-0510/DSA-Practice/tree/master/0141-linked-list-cycle) |
@@ -101,6 +103,7 @@
 | [0015-3sum](https://github.com/Krishna-0510/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Krishna-0510/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Krishna-0510/DSA-Practice/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/Krishna-0510/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Krishna-0510/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Krishna-0510/DSA-Practice/tree/master/0217-contains-duplicate) |
@@ -547,4 +550,12 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Krishna-0510/DSA-Practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Krishna-0510/DSA-Practice/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Krishna-0510/DSA-Practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
