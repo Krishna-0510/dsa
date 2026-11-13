@@ -56,6 +56,7 @@
 | [3005-count-elements-with-maximum-frequency](https://github.com/Krishna-0510/DSA-Practice/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Krishna-0510/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Krishna-0510/DSA-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Krishna-0510/DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Krishna-0510/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Krishna-0510/DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Krishna-0510/DSA-Practice/tree/master/3524-find-x-value-of-array-i) |
@@ -250,6 +251,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Krishna-0510/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Krishna-0510/DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Counting
 |  |
 | ------- |
@@ -346,6 +348,7 @@
 | [1096-brace-expansion-ii](https://github.com/Krishna-0510/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Krishna-0510/DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Krishna-0510/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Krishna-0510/DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Tree
 |  |
 | ------- |
@@ -417,6 +420,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Krishna-0510/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Krishna-0510/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Krishna-0510/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Krishna-0510/DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Krishna-0510/DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Number Theory
 |  |
@@ -470,6 +474,7 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Krishna-0510/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Krishna-0510/DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Krishna-0510/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Ordered Set
 |  |
@@ -560,4 +565,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Krishna-0510/DSA-Practice/tree/master/0075-sort-colors) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Krishna-0510/DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Krishna-0510/DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
