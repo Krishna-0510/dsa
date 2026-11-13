@@ -22,6 +22,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna-0510/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Krishna-0510/DSA-Practice/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Krishna-0510/DSA-Practice/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Krishna-0510/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Krishna-0510/DSA-Practice/tree/master/0217-contains-duplicate) |
@@ -97,6 +98,7 @@
 | [0141-linked-list-cycle](https://github.com/Krishna-0510/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Krishna-0510/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna-0510/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Krishna-0510/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Krishna-0510/DSA-Practice/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -168,6 +170,7 @@
 | [0007-reverse-integer](https://github.com/Krishna-0510/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Krishna-0510/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Krishna-0510/DSA-Practice/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Krishna-0510/DSA-Practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Krishna-0510/DSA-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Krishna-0510/DSA-Practice/tree/master/0268-missing-number) |
