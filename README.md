@@ -104,6 +104,7 @@
 | [0283-move-zeroes](https://github.com/Krishna-0510/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Krishna-0510/DSA-Practice/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Krishna-0510/DSA-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sorting
 |  |
 | ------- |
@@ -241,6 +242,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Krishna-0510/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2409-count-days-spent-together](https://github.com/Krishna-0510/DSA-Practice/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Krishna-0510/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Krishna-0510/DSA-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Krishna-0510/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3692-majority-frequency-characters](https://github.com/Krishna-0510/DSA-Practice/tree/master/3692-majority-frequency-characters) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Krishna-0510/DSA-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -311,6 +313,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Krishna-0510/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Krishna-0510/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Krishna-0510/DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Krishna-0510/DSA-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Krishna-0510/DSA-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Krishna-0510/DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Krishna-0510/DSA-Practice/tree/master/3524-find-x-value-of-array-i) |
