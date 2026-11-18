@@ -243,6 +243,7 @@
 | [2409-count-days-spent-together](https://github.com/Krishna-0510/DSA-Practice/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Krishna-0510/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Krishna-0510/DSA-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Krishna-0510/DSA-Practice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Krishna-0510/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3692-majority-frequency-characters](https://github.com/Krishna-0510/DSA-Practice/tree/master/3692-majority-frequency-characters) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Krishna-0510/DSA-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
