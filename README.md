@@ -35,6 +35,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Krishna-0510/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Krishna-0510/DSA-Practice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Krishna-0510/DSA-Practice/tree/master/0724-find-pivot-index) |
+| [0881-boats-to-save-people](https://github.com/Krishna-0510/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Krishna-0510/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -105,6 +106,7 @@
 | [0189-rotate-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Krishna-0510/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Krishna-0510/DSA-Practice/tree/master/0344-reverse-string) |
+| [0881-boats-to-save-people](https://github.com/Krishna-0510/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Krishna-0510/DSA-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sorting
@@ -119,6 +121,7 @@
 | [0217-contains-duplicate](https://github.com/Krishna-0510/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Krishna-0510/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Krishna-0510/DSA-Practice/tree/master/0268-missing-number) |
+| [0881-boats-to-save-people](https://github.com/Krishna-0510/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/Krishna-0510/DSA-Practice/tree/master/1096-brace-expansion-ii) |
@@ -208,6 +211,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Krishna-0510/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Krishna-0510/DSA-Practice/tree/master/0134-gas-station) |
+| [0881-boats-to-save-people](https://github.com/Krishna-0510/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/Krishna-0510/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-0510/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/Krishna-0510/DSA-Practice/tree/master/1927-sum-game) |
@@ -590,4 +594,8 @@
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Krishna-0510/DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Krishna-0510/DSA-Practice/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
