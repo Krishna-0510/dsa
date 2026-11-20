@@ -55,6 +55,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/Krishna-0510/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Krishna-0510/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Krishna-0510/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Krishna-0510/DSA-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Krishna-0510/DSA-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Krishna-0510/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Krishna-0510/DSA-Practice/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -108,6 +109,7 @@
 | [0344-reverse-string](https://github.com/Krishna-0510/DSA-Practice/tree/master/0344-reverse-string) |
 | [0881-boats-to-save-people](https://github.com/Krishna-0510/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Krishna-0510/DSA-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Krishna-0510/DSA-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sorting
 |  |
@@ -129,6 +131,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Krishna-0510/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Krishna-0510/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Krishna-0510/DSA-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Krishna-0510/DSA-Practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Krishna-0510/DSA-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Krishna-0510/DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -297,6 +300,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Krishna-0510/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Krishna-0510/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Krishna-0510/DSA-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Krishna-0510/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Krishna-0510/DSA-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
