@@ -43,6 +43,7 @@
 | [1267-count-servers-that-communicate](https://github.com/Krishna-0510/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Krishna-0510/DSA-Practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Krishna-0510/DSA-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Krishna-0510/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/Krishna-0510/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Krishna-0510/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Krishna-0510/DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -84,6 +85,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Krishna-0510/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Krishna-0510/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krishna-0510/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Krishna-0510/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Krishna-0510/DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Krishna-0510/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Krishna-0510/DSA-Practice/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -191,6 +193,7 @@
 | [0268-missing-number](https://github.com/Krishna-0510/DSA-Practice/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Krishna-0510/DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/Krishna-0510/DSA-Practice/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Krishna-0510/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1510-stone-game-iv](https://github.com/Krishna-0510/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Krishna-0510/DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1927-sum-game](https://github.com/Krishna-0510/DSA-Practice/tree/master/1927-sum-game) |
@@ -405,6 +408,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Krishna-0510/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Krishna-0510/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -608,4 +612,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Krishna-0510/DSA-Practice/tree/master/0881-boats-to-save-people) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Krishna-0510/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
